@@ -68,14 +68,14 @@ In the app, Pro features are marked **PRO**.
 3. A short **setup** guides you through the rest:
    - The app **finds the simulator and its Community folder automatically**. If it can't, click **Browse** and choose them.
    - Choose **Recommended** or **Everything off** as a starting point.
-   - Click **Install**. If the simulator is running, UI Enhancer installs itself as soon as you close it.
+   - Click **Install**, with the simulator closed: it only reads add-ons when it starts.
 4. **Start the simulator.**
 
 ## Changing settings
 
-Open `UIEnhancerManager.exe` and pick a page on the left. To place your corner, go to **In flight → Screen corners** and choose a feature for one corner.
+Open `UIEnhancerManager.exe` and pick a page on the left. To place your corner, go to **In flight**: it shows a picture of the flight screen. Click a corner and choose what goes there; click anything on the picture to set it up.
 
-When you change something, a bar appears at the bottom: click **Apply**, then start the simulator to see the changes. If the simulator is running, click **Apply when it closes** and UI Enhancer applies them as soon as you close it.
+When you change something, a bar appears at the bottom: click **Apply**, then start the simulator to see the changes. Close the simulator before applying: it only reads add-ons when it starts. **Reset to recommended** at the top of each page puts that page back to the recommended settings.
 
 ## After a simulator update
 
@@ -87,7 +87,7 @@ If parts of UI Enhancer stop working after a big simulator update, check here fo
 
 The app keeps copies of the simulator's settings file (`UserCfg.opt`, which holds your graphics, display and other options), so a settings reset can be spotted and undone. It checks the file when the app starts and whenever the simulator closes, and keeps the last 20 versions in `%APPDATA%\UIEnhancer\usercfg`.
 
-If any settings changed since the last backup, **Home** and the **Installation** page list each one, with its old and new value. If you changed them yourself, click **Dismiss**. Otherwise, close the simulator and click **Restore previous settings**; your current settings file is backed up first, so this can be undone. Settings the simulator changes by itself every session, such as the window position, aren't reported.
+If any settings changed since the last backup, **Home** and the **Installation** page list each one, with its old and new value. If you changed them yourself, click **Dismiss**. Otherwise, close the simulator and click **Undo** next to a setting to put just that one back, or **Restore all** for the whole file; your current settings file is backed up first, so this can be undone. The **Installation** page also lists every backup, each with **Restore**. Settings the simulator changes by itself every session, such as the window position, aren't reported.
 
 ## Uninstalling
 
