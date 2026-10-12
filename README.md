@@ -10,9 +10,11 @@ You choose and configure everything in the **UI Enhancer Manager** app, which al
 
 ## Features
 
-### Aircraft favourites
+### Favourite aircraft
 
-A Favourites tab and a heart on every aircraft tile in the aircraft picker. Click a heart to add or remove that aircraft. Your favourites are kept between sessions in your simulator profile's save.
+Heart the aircraft you fly most and get to them quickly. Every aircraft in the aircraft picker has a heart: click it to add that aircraft to your favourites, or take it off. A Favourites tab shows just your favourites, and the picker opens on it next time if that's where you left it. Your favourites are kept between sessions in your simulator profile's save.
+
+While favourite aircraft are on, the picker's Marketplace tab is hidden: the tab row only has room for so many tabs, and the Favourites tab would push Marketplace off the end. The Marketplace is still on the home screen.
 
 **Favourite aircraft menu:** a Favourite aircraft button under the aircraft on the Free Flight screen, so you can fly one of your favourites without opening the aircraft picker.
 
@@ -34,7 +36,9 @@ Place one of these in a corner of the screen. Nothing shows until you move the m
 
 ### Notifications
 
-**Landing rate:** after each touchdown, your landing rate fades in by the bottom-right corner, with a rating, the G-load, speeds, wind, slip and any bounces. Click the triangle in that corner to see this flight's landings again.
+The bottom-right corner is kept for UI Enhancer's notifications. They pop out by that corner when something happens, then fade away; click the triangle in the corner to see this flight's notifications again. Choose which ones you want on the app's **In flight** page.
+
+- **Landing rate:** after each touchdown, your landing rate with a rating (butter to very hard), the G-load, speeds, wind, slip and any bounces.
 
 ### Diamond toolbar tab
 
