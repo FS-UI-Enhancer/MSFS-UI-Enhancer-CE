@@ -14,6 +14,8 @@ You choose and configure everything in the **UI Enhancer Manager** app, which al
 
 A Favourites tab and a heart on every aircraft tile in the aircraft picker. Click a heart to add or remove that aircraft. Your favourites are kept between sessions in your simulator profile's save.
 
+**Favourite aircraft menu:** a Favourite aircraft button under the aircraft on the Free Flight screen, so you can fly one of your favourites without opening the aircraft picker.
+
 ### Aircraft setup panel
 
 Variant, livery and identification right in the aircraft picker. The left panel shows the aircraft's setup instead of its statistics: variant and livery dropdowns (with a livery filter, preview and favourite liveries) and identification, plus buttons for Fuel & Payload and Mass & Balance.
@@ -38,17 +40,17 @@ Place one of these in a corner of the screen. Nothing shows until you move the m
 
 The in-flight toolbar stays out of the way until you want it. Instead of popping up whenever the mouse goes near the top of the screen, it opens from a small diamond that fades in at the top centre; click it to open the toolbar, and click it again (or move off the toolbar) to close it.
 
-### UI Enhancer Pro (coming soon)
+### UI Enhancer Pro
 
-UI Enhancer Pro will have everything in Community Edition, plus:
+UI Enhancer Pro has everything in Community Edition, plus:
 
 - **All three screen corners**, with **SimBrief** plans in Flight progress (navlog, fuel & payload, weather and the full OFP) and **BeyondATC** in the ATC panel.
 - **More aircraft picker features:** list layouts, the sort menu and a steadier list.
-- **Free Flight screen:** better airport picking and the Favourite aircraft menu.
+- **Free Flight screen:** better airport picking (recent routes, favourite airports and grouped start positions).
 - **Start-up and banner options.**
 - **Scratchpad** in Utilities: ATIS, QNH, squawk, a frequency and notes, kept until you clear them.
 
-The app shows Pro features with a **PRO** tag.
+In the app, Pro features are marked **PRO**.
 
 ---
 
