@@ -1,6 +1,6 @@
 # UI Enhancer Community Edition for Microsoft Flight Simulator 2024
 
-UI Enhancer Community Edition is the free edition of UI Enhancer. It adds **favourite aircraft** and an **aircraft setup panel** to the aircraft picker, **one screen corner** with an in-flight panel and a **landing rate notification** after each touchdown. It's designed to fit in with the simulator's own look.
+UI Enhancer Community Edition is the free edition of UI Enhancer. It adds **favourite aircraft** and an **aircraft setup panel** to the aircraft picker, **one screen corner** with an in-flight panel, a **landing rate notification** after each touchdown and a tidier **in-flight toolbar**. It's designed to fit in with the simulator's own look.
 
 You choose and configure everything in the **UI Enhancer Manager** app, which also installs, updates and removes UI Enhancer.
 
@@ -34,6 +34,10 @@ Place one of these in a corner of the screen. Nothing shows until you move the m
 
 **Landing rate:** after each touchdown, your landing rate fades in by the bottom-right corner, with a rating, the G-load, speeds, wind, slip and any bounces. Click the triangle in that corner to see this flight's landings again.
 
+### Diamond toolbar tab
+
+The in-flight toolbar stays out of the way until you want it. Instead of popping up whenever the mouse goes near the top of the screen, it opens from a small diamond that fades in at the top centre; click it to open the toolbar, and click it again (or move off the toolbar) to close it.
+
 ### UI Enhancer Pro (coming soon)
 
 UI Enhancer Pro will have everything in Community Edition, plus:
@@ -43,7 +47,6 @@ UI Enhancer Pro will have everything in Community Edition, plus:
 - **Free Flight screen:** better airport picking and the Favourite aircraft menu.
 - **Start-up and banner options.**
 - **Scratchpad** in Utilities: ATIS, QNH, squawk, a frequency and notes, kept until you clear them.
-- The **diamond toolbar tab**.
 
 The app shows Pro features with a **PRO** tag.
 
