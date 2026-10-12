@@ -1,6 +1,6 @@
 # UI Enhancer Community Edition for Microsoft Flight Simulator 2024
 
-UI Enhancer Community Edition is the free edition of [UI Enhancer](https://github.com/robertmacnair/MSFS-UI-Enhancer). It adds **favourite aircraft** to the aircraft picker and **one screen corner** with an in-flight panel. It's designed to fit in with the simulator's own look.
+UI Enhancer Community Edition is the free edition of [UI Enhancer](https://github.com/robertmacnair/MSFS-UI-Enhancer). It adds **favourite aircraft** to the aircraft picker, **one screen corner** with an in-flight panel and a **landing rate notification** after each touchdown. It's designed to fit in with the simulator's own look.
 
 You choose and configure everything in the **UI Enhancer Manager** app, which also installs, updates and removes UI Enhancer.
 
@@ -19,8 +19,16 @@ A Favourites tab and a heart on every aircraft tile in the aircraft picker. Clic
 Place one of these in a corner of the screen. Nothing shows until you move the mouse into that corner; click the triangle that appears to open it.
 
 - **Flight progress:** a route progress banner and a menu with your flight's details, using the departure and arrival you set on the world map.
-- **Utilities:** see and change the simulation rate (¼× to 16×), with a reminder badge while it isn't 1×.
+- **Utilities:** a stack of small tools; each icon opens its tool beside the stack.
+  - **Sim rate:** see and change the simulation rate (¼× to 16×), with a reminder badge while it isn't 1×.
+  - **Active pause:** one click turns it on or off.
+  - **Time of day:** Dawn, Morning, Noon, Sunset, Dusk and Night presets that follow the sun where you are, and back to live time.
+  - **Timers:** a stopwatch and a countdown that run on the sim's clock.
 - **ATC:** the simulator's ATC in a compact panel. It shows the conversation, your replies as buttons and COM1 with a swap button. When ATC calls you, the panel pops out so you can reply.
+
+### Notifications
+
+**Landing rate:** after each touchdown, your landing rate fades in by the bottom-right corner, with a rating, the G-load, speeds, wind, slip and any bounces. Click the triangle in that corner to see this flight's landings again.
 
 ### UI Enhancer Pro
 
@@ -30,8 +38,8 @@ Place one of these in a corner of the screen. Nothing shows until you move the m
 - **More aircraft picker features:** the aircraft setup panel (variant, livery and identification), list layouts and the sort menu.
 - **Free Flight screen:** better airport picking and the Favourite aircraft menu.
 - **Start-up and banner options.**
-- **Utilities tools:** Active pause, Time of day, Timers and Scratchpad.
-- **Landing rate notifications** and the **diamond toolbar tab**.
+- **Scratchpad** in Utilities: ATIS, QNH, squawk, a frequency and notes, kept until you clear them.
+- The **diamond toolbar tab**.
 
 The app shows Pro features with a **PRO** tag.
 
