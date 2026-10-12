@@ -1,6 +1,6 @@
 # UI Enhancer Community Edition for Microsoft Flight Simulator 2024
 
-UI Enhancer Community Edition is the free edition of [UI Enhancer](https://github.com/robertmacnair/MSFS-UI-Enhancer). It adds **favourite aircraft** and an **aircraft setup panel** to the aircraft picker, **one screen corner** with an in-flight panel and a **landing rate notification** after each touchdown. It's designed to fit in with the simulator's own look.
+UI Enhancer Community Edition is the free edition of UI Enhancer. It adds **favourite aircraft** and an **aircraft setup panel** to the aircraft picker, **one screen corner** with an in-flight panel and a **landing rate notification** after each touchdown. It's designed to fit in with the simulator's own look.
 
 You choose and configure everything in the **UI Enhancer Manager** app, which also installs, updates and removes UI Enhancer.
 
@@ -34,9 +34,9 @@ Place one of these in a corner of the screen. Nothing shows until you move the m
 
 **Landing rate:** after each touchdown, your landing rate fades in by the bottom-right corner, with a rating, the G-load, speeds, wind, slip and any bounces. Click the triangle in that corner to see this flight's landings again.
 
-### UI Enhancer Pro
+### UI Enhancer Pro (coming soon)
 
-[UI Enhancer Pro](https://github.com/robertmacnair/MSFS-UI-Enhancer) has everything in Community Edition, plus:
+UI Enhancer Pro will have everything in Community Edition, plus:
 
 - **All three screen corners**, with **SimBrief** plans in Flight progress (navlog, fuel & payload, weather and the full OFP) and **BeyondATC** in the ATC panel.
 - **More aircraft picker features:** list layouts, the sort menu and a steadier list.
