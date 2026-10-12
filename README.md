@@ -1,6 +1,6 @@
 # UI Enhancer Community Edition for Microsoft Flight Simulator 2024
 
-UI Enhancer Community Edition is the free edition of [UI Enhancer](https://github.com/robertmacnair/MSFS-UI-Enhancer). It adds **favourite aircraft** to the aircraft picker, **one screen corner** with an in-flight panel and a **landing rate notification** after each touchdown. It's designed to fit in with the simulator's own look.
+UI Enhancer Community Edition is the free edition of [UI Enhancer](https://github.com/robertmacnair/MSFS-UI-Enhancer). It adds **favourite aircraft** and an **aircraft setup panel** to the aircraft picker, **one screen corner** with an in-flight panel and a **landing rate notification** after each touchdown. It's designed to fit in with the simulator's own look.
 
 You choose and configure everything in the **UI Enhancer Manager** app, which also installs, updates and removes UI Enhancer.
 
@@ -13,6 +13,10 @@ You choose and configure everything in the **UI Enhancer Manager** app, which al
 ### Aircraft favourites
 
 A Favourites tab and a heart on every aircraft tile in the aircraft picker. Click a heart to add or remove that aircraft. Your favourites are kept between sessions in your simulator profile's save.
+
+### Aircraft setup panel
+
+Variant, livery and identification right in the aircraft picker. The left panel shows the aircraft's setup instead of its statistics: variant and livery dropdowns (with a livery filter, preview and favourite liveries) and identification, plus buttons for Fuel & Payload and Mass & Balance.
 
 ### One screen corner
 
@@ -35,7 +39,7 @@ Place one of these in a corner of the screen. Nothing shows until you move the m
 [UI Enhancer Pro](https://github.com/robertmacnair/MSFS-UI-Enhancer) has everything in Community Edition, plus:
 
 - **All three screen corners**, with **SimBrief** plans in Flight progress (navlog, fuel & payload, weather and the full OFP) and **BeyondATC** in the ATC panel.
-- **More aircraft picker features:** the aircraft setup panel (variant, livery and identification), list layouts and the sort menu.
+- **More aircraft picker features:** list layouts, the sort menu and a steadier list.
 - **Free Flight screen:** better airport picking and the Favourite aircraft menu.
 - **Start-up and banner options.**
 - **Scratchpad** in Utilities: ATIS, QNH, squawk, a frequency and notes, kept until you clear them.
