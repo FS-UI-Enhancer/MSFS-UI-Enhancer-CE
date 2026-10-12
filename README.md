@@ -83,18 +83,24 @@ UI Enhancer carries copies of a few of the simulator's menu components. After a 
 
 If parts of UI Enhancer stop working after a big simulator update, check here for a new release. The app also tells you when one is available.
 
+## Simulator settings backups
+
+The app keeps copies of the simulator's settings file (`UserCfg.opt`, which holds your graphics, display and other options), so a settings reset can be spotted and undone. It checks the file when the app starts and whenever the simulator closes, and keeps the last 20 versions in `%APPDATA%\UIEnhancer\usercfg`.
+
+If any settings changed since the last backup, **Home** and the **Installation** page list each one, with its old and new value. If you changed them yourself, click **Dismiss**. Otherwise, close the simulator and click **Restore previous settings**; your current settings file is backed up first, so this can be undone. Settings the simulator changes by itself every session, such as the window position, aren't reported.
+
 ## Uninstalling
 
 1. Close the simulator and open the app.
 2. On the **Installation** page, click **Remove**. This deletes UI Enhancer's folder from Community; your favourites stay saved.
 3. Delete the folder you extracted the app to.
-4. Optional: delete `%APPDATA%\UIEnhancer` to remove the app's settings and log.
+4. Optional: delete `%APPDATA%\UIEnhancer` to remove the app's settings, log and simulator settings backups.
 
 ---
 
 ## How it works
 
-UI Enhancer installs as a Community folder add-on (`ui-enhancer`). It carries its own copies of three of the simulator's menu components, each of which starts UI Enhancer's scripts. **The simulator's own files aren't changed.**
+UI Enhancer installs as a Community folder add-on (`ui-enhancer`). It carries its own copies of three of the simulator's menu components, each of which starts UI Enhancer's scripts. **The simulator's own files aren't changed.** The only exception is the simulator's settings file, and only when you click **Restore previous settings** (see [Simulator settings backups](#simulator-settings-backups)).
 
 - **Your data:** favourites live in your simulator profile's own save, so they follow your profile.
 - **Privacy:** everything runs on your PC. The app checks this page for new releases; nothing else is sent anywhere.
