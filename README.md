@@ -42,7 +42,9 @@ The bottom-right corner is kept for UI Enhancer's notifications. They pop out by
 
 ### Diamond toolbar tab
 
-The in-flight toolbar stays out of the way until you want it. Instead of popping up whenever the mouse goes near the top of the screen, it opens from a small diamond that fades in at the top centre; click it to open the toolbar, and click it again (or move off the toolbar) to close it. The toolbar buttons are larger, separate tiles, so they are easier to hit.
+The in-flight toolbar stays out of the way until you want it. Instead of popping up whenever the mouse goes near the top of the screen, it opens from a small diamond that fades in at the top centre; click it to open the toolbar, and click it again (or move off the toolbar) to close it. The toolbar buttons are shown as separate tiles.
+
+Turn on **Hide toolbar tooltips** in the same panel to stop the name labels popping up under the toolbar buttons. It works with or without the diamond tab.
 
 ### UI Enhancer Pro
 
